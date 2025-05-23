@@ -89,7 +89,6 @@ Visit `http://localhost:8501` in your browser 🎉
 
 ## 🔐 Note on Privacy
 
-- Your API key is kept secure via `.env` and `python-dotenv`.
 - Uploaded audio is processed locally and never stored or shared.
 
 ---
