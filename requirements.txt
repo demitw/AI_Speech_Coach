@@ -1,0 +1,12 @@
+openai-whisper
+streamlit
+transformers
+torch
+pyAudioAnalysis
+pydub
+numpy
+matplotlib
+scipy
+eyed3
+python-dotenv
+openai>=1.0.0
